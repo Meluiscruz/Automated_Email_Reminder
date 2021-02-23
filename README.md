@@ -1,7 +1,5 @@
-# Automated Email Reminder
+# Automated Email Reminder.
 ## A bot based in Python.
-
-![](https://giphy.com/gifs/beEGfYr46EZ7Z0bYvX/html5)
 
 # Project metrics.
 
