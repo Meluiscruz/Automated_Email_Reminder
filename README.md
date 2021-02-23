@@ -19,14 +19,17 @@ Aliquam eu nisl vel orci porta commodo id eget nisi. Vestibulum risus tellus, co
 
 ## Table of Contents.
 
-- [Python_Scripts](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/Python_Scripts "Python_Scripts"): Where files used in README.md are.
+- [Python_Scripts](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/Python_Scripts "Python_Scripts"):
   - [credentials.py](https://github.com/Meluiscruz/Automated_Email_Reminder/blob/master/Python_Scripts/credentials.py "credentials.py"): Edit this file with the sender data (email and password account).
   - [main.py](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/Python_Scripts "main.py"): This is the head pice of code of the project.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
+- [input_files](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/input_files "input_files"):
+  - [providers](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/input_files/providers "providers"): Where directories of clients (receivers information) are.
+  - [pending_base_file](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/input_files/pending_base_file "pending_base_file"): Where base files (patients, services and clinics information) are.
+- [output_files](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/output_files "output_files"):
+  - [Reports](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/output_files/Reports "Reports"): Where the summaries created by the bot are.
+  - [Submitted](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/input_files/pending_base_file "pending_base_file"):
+    - [Submitted](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/input_files/pending_base_file "pending_base_file")
+    - [Submitted](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/input_files/pending_base_file "pending_base_file")
 - [Images](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/Images "Images"): Where files used in README.md are.
 
 Fusce a tellus id ante vehicula congue. Maecenas ullamcorper ex non nunc consectetur, vitae maximus urna rhoncus. Praesent ligula ante, commodo in quam at, aliquam commodo ex. Nunc lectus quam, commodo eu euismod in, ullamcorper eu dui. Nam et ullamcorper nisi. Donec ante ipsum, tristique a venenatis consequat, faucibus at massa. Etiam pretium est in mi aliquam, sed semper risus finibus. 
