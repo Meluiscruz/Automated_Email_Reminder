@@ -19,13 +19,15 @@ Aliquam eu nisl vel orci porta commodo id eget nisi. Vestibulum risus tellus, co
 
 ## Table of Contents.
 
+- [Python_Scripts](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/Python_Scripts "Python_Scripts"): Where files used in README.md are.
+  - [credentials.py](https://github.com/Meluiscruz/Automated_Email_Reminder/blob/master/Python_Scripts/credentials.py "credentials.py"): Edit this file with the sender data (email and password account).
+  - [main.py](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/Python_Scripts "main.py"): This is the head pice of code of the project.
 - Aliquam eu nisl vel orci por.
 - Aliquam eu nisl vel orci por.
 - Aliquam eu nisl vel orci por.
 - Aliquam eu nisl vel orci por.
 - Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
+- [Images](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/Images "Images"): Where files used in README.md are.
 
 Fusce a tellus id ante vehicula congue. Maecenas ullamcorper ex non nunc consectetur, vitae maximus urna rhoncus. Praesent ligula ante, commodo in quam at, aliquam commodo ex. Nunc lectus quam, commodo eu euismod in, ullamcorper eu dui. Nam et ullamcorper nisi. Donec ante ipsum, tristique a venenatis consequat, faucibus at massa. Etiam pretium est in mi aliquam, sed semper risus finibus. 
 
