@@ -1,7 +1,7 @@
 # Automated Email Reminder (AER).
 ### An E-mail sender bot based in Python.
 
-![](https://github.com/Meluiscruz/Automated_Email_Reminder/blob/master/Images/email_bot.mp4)
+![](https://github.com/Meluiscruz/Automated_Email_Reminder/blob/master/Images/email_bot.gif)
 
 ## Project metrics.
 
