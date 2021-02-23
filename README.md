@@ -29,28 +29,26 @@ Aliquam eu nisl vel orci porta commodo id eget nisi. Vestibulum risus tellus, co
   - [Reports](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/output_files/Reports "Reports"): Where the summaries created by the bot are.
   - [Submitted](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/input_files/pending_base_file "pending_base_file"):
     - [E1P1_base_file](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/output_files/Submitted/E1P1_base_file "E1P1_base_file"): Where base files are moved after the process.
-    - [E1P2_Submitted_files](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/output_files/Submitted/E1P2_Submitted_files "E1P2_Submitted_files"): Where files created by the bot and used for the next process are. 
+    - [E1P2_Submitted_files](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/output_files/Submitted/E1P2_Submitted_files "E1P2_Submitted_files"): Where files created by the bot and used for the next process are.
+  - [Tables](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/output_files/Tables "Tables"): Where attachments (html and csv files created by the bot) are.
 - [Images](https://github.com/Meluiscruz/Automated_Email_Reminder/tree/master/Images "Images"): Where files used in README.md are.
-
-Fusce a tellus id ante vehicula congue. Maecenas ullamcorper ex non nunc consectetur, vitae maximus urna rhoncus. Praesent ligula ante, commodo in quam at, aliquam commodo ex. Nunc lectus quam, commodo eu euismod in, ullamcorper eu dui. Nam et ullamcorper nisi. Donec ante ipsum, tristique a venenatis consequat, faucibus at massa. Etiam pretium est in mi aliquam, sed semper risus finibus. 
 
 ## What things are pending to develop?
 
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
+- A script that installs all the required modules for the project. 
+- A script that asks the user for sender credentials (e-mail address, password and port).
+- A script that set the absolute path of the project (enviroment variable DEFAULT_DIR in main.py, for Windows and Linux).
+- Handle the most of excepetions in main.py.
+- The script should work as 'lazy'. So, files must not be created if all the messages are not sent.
 
 ## Technical information.
 
-Fusce a tellus id ante vehicula congue. Maecenas ullamcorper ex non nunc consectetur, vitae maximus urna rhoncus. Praesent ligula ante, commodo in quam at, aliquam commodo ex. Nunc lectus quam, commodo eu euismod in, ullamcorper eu dui.
+I used VSCode as source-code editor. Also, I have employed the following modules listed in main.py :
 
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-- Aliquam eu nisl vel orci por.
-
-This is a project for an insurance company. This version was controlled to be public.
+- `$ pip install pandas`
+- `$ pip install numpy`
+- `$ pip install email`
+- `$ pip install ssl`
+- `$ pip install smtplib`
+- `$ pip install xlrd`
+- `$ pip install openpyxl`
