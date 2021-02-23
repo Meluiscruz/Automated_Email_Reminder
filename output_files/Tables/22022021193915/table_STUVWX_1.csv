@@ -1,0 +1,3 @@
+Clave,Unidad,Folio,Lesionado,Etapa,Entrega,Tipo,Lesion,Subtotal,IVA,Total,Consecutivo,Ones,Clave_Interna,Rel_Clave
+STUVWX,Centro Hospitalario Generico,CHGN007456,EVA MARIA LAFUENTE PEREA,1,1,Unica,Fracturas Simples Sin Desplazamiento,1200,192.0,1392.0,955,1,STUVWX22022021,STUVWX_955
+STUVWX,Centro Hospitalario Generico,CHGN007457,ISMAEL DEL RIO BAHENA,1,1,Unica,Esguince Cervical Grado 2,1000,160.0,1160.0,955,1,STUVWX22022021,STUVWX_955
