@@ -20,7 +20,7 @@ from credentials import EMAIL_USER, EMAIL_PASSWORD
 
 DEFAULT_DIR = '/home/cleto/Desktop/E_mail_Automation/Python_Scripts/' ### Note: Please, set the default directory where the file main.py is before run
 BASE_FILE_DIR = '../input_files/pending_base_file/'
-clavesIVAFrontera = ["TACCMF", "OAXMED", "TIJHVI", "ENSSRL","REYSAN", "NLTHMA"]
+clavesIVAFrontera = ["TACCMF", "OAXMED", "TIJHVI", "ENSSRL","REYSAN", "NLTHMA"] ### Note: This list should be changed to those clients in the border
 REPORT_FILE_DIR = '../output_files/Reports/'
 PROVIDERS_FILE_DIR = '../input_files/providers/'
 E1P2_INPUT_FILES_DIR = '../output_files/Submitted/E1P2_Submitted_files/'
@@ -195,7 +195,7 @@ def run():
     ## STEP 2.1 Selecting just the pending services, defining IVA rates and operating over first dataframe.
 
     df_MV_first_output = df_MV_first_output.reset_index( drop = True)
-    df_MV_first_output['IVA_rate'] = df_MV_first_output[ 'Clave' ].apply( lambda x: 0.08 if x in clavesIVAFrontera  else 0.16)
+    df_MV_first_output['IVA_rate'] = df_MV_first_output[ 'Clave' ].apply( lambda x: 0.08 if x in clavesIVAFrontera  else 0.16) ## Note: IVA in the North border is 8% instead 16%
     df_MV_first_output['IVA'] = df_MV_first_output['Subtotal'] * df_MV_first_output['IVA_rate']
     df_MV_first_output['Total'] = df_MV_first_output['Subtotal'] + df_MV_first_output['IVA']
     df_MV_first_output['Ones'] = 1                         
