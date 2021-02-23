@@ -1,11 +1,13 @@
-# Automated Email Reminder.
-## A bot based in Python.
+# Automated Email Reminder (AER).
+### An E-mail sender bot based in Python.
 
-# Project metrics.
+![](https://github.com/Meluiscruz/Automated_Email_Reminder/blob/master/Images/email_bot.mp4)
+
+## Project metrics.
 
 ![](https://img.shields.io/github/stars/Meluiscruz/Automated_Email_Reminder.svg) ![](https://img.shields.io/github/forks/Meluiscruz/Automated_Email_Reminder.svg) ![](https://img.shields.io/github/issues/Meluiscruz/Automated_Email_Reminder.svg)![](https://img.shields.io/github/tag/Meluiscruz/Automated_Email_Reminder.svg)
 
-# Scope of the project.
+## Scope of the project.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum consectetur dolor, at aliquet magna luctus at. In a nunc magna. Aenean lobortis ullamcorper semper. Ut efficitur commodo diam eget faucibus. Quisque at consequat enim. Duis congue, purus non congue dignissim, ante lorem semper risus, in lacinia elit arcu a nisi. Vestibulum suscipit tortor eu pulvinar dapibus. Phasellus bibendum egestas semper. Cras pulvinar sapien nisl, in sodales metus vulputate et. Ut convallis, justo nec varius egestas, urna justo auctor magna, non sollicitudin ligula nunc at massa. 
 
@@ -37,7 +39,7 @@ Fusce a tellus id ante vehicula congue. Maecenas ullamcorper ex non nunc consect
 - Aliquam eu nisl vel orci por.
 - Aliquam eu nisl vel orci por.
 
-# Technical information.
+## Technical information.
 
 Fusce a tellus id ante vehicula congue. Maecenas ullamcorper ex non nunc consectetur, vitae maximus urna rhoncus. Praesent ligula ante, commodo in quam at, aliquam commodo ex. Nunc lectus quam, commodo eu euismod in, ullamcorper eu dui.
 
