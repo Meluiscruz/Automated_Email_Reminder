@@ -37,9 +37,9 @@ Aliquam eu nisl vel orci porta commodo id eget nisi. Vestibulum risus tellus, co
 
 - A script that installs all the required modules for the project. 
 - A script that asks the user for sender credentials (e-mail address, password and port).
-- A script that set the absolute path of the project (enviroment variable DEFAULT_DIR in main.py, for Windows and Linux).
+- A script that sets the absolute path of the project (enviroment variable DEFAULT_DIR in main.py, for Windows and Linux).
 - Handle the most of excepetions in main.py.
-- The script should work as 'lazy'. So, files must not be created if all the messages are not sent.
+- The main.py script should work as 'lazy'. So, files must not be created if all the messages are not sent.
 
 ## Technical information.
 
